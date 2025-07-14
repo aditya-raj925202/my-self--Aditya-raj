@@ -42,7 +42,7 @@
 ### ⚡ Fun Facts
 
 - 🔭 I’m currently working on **Java Projects & Full Stack Development**
-- 🌱 I’m currently learning **Spring Boot, React, and Docker**
+- 🌱 I’m currently learning **Spring Boot, React**
 - 💬 Ask me about **Java, DSA, and Backend Development**
 - 📄 Know about my experiences on [My Portfolio](https://your-portfolio-link.com)
 
