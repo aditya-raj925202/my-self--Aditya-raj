@@ -6,7 +6,7 @@
 ### 🌟 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,boot spring,,python,c,cpp,mysql,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,,python,c,cpp,mysql,git,github,vscode&theme=light" />
 </p>
 
 ---
