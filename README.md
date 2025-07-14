@@ -6,7 +6,7 @@
 ### 🌟 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,bootstrap,react,python,c,cpp,mysql,git,github,vscode,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,boot spring,,python,c,cpp,mysql,git,github,vscode&theme=light" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 - 🔭 I’m currently working on **Java Projects & Full Stack Development**
 - 🌱 I’m currently learning **Spring Boot, React**
 - 💬 Ask me about **Java, DSA, and Backend Development**
-- 📄 Know about my experiences on [My Portfolio](https://your-portfolio-link.com)
+
 
 ---
 
